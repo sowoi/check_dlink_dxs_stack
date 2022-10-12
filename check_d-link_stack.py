@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-# Developer Massoud Ahemd (DTNET)
+# Developer Massoud Ahemd
 # Fork of https://github.com/stdevel by Christian Stankowic
 # D-Link DGS managed switches
 #
 
 import logging
 import pysnmp
-import re
+
 import os
 from optparse import OptionParser, OptionGroup
 from pysnmp.entity import engine, config
