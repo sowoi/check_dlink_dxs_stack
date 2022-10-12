@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+
 # Developer Massoud Ahemd
 # Fork of https://github.com/stdevel by Christian Stankowic
 # D-Link DGS managed switches
